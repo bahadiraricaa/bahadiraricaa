@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Arıca</h1>
-<h3 align="center">I'am a IOS Developer</h3>
+<h3 align="center">I'm a IOS Developer</h3>
 
 - 📫 How to reach me **bahadiraricav3@gmail.com**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bahad%c4%b1r-ar%c4%b1ca-b25754383/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bahad%c4%b1r-ar%c4%b1ca-b25754383/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bahadır-arıca-b25754383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadır-arıca-b25754383" height="30" width="40" /></a>
 <a href="https://instagram.com/bahadiraricaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahadiraricaa" height="30" width="40" /></a>
 </p>
 
