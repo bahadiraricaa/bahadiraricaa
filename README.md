@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bahadiraricav3@gmail.com**
 
-- 📄 Know about my experiences [@beldiadigital](@[beldiadigital](https://github.com/beldiadigital))
+- 📄 Know about my experiences [@[beldiadigital](https://github.com/beldiadigital)]
 
 - 📱 My App Store links https://apps.apple.com/sg/developer/ismail-bahadir-arica/id1824412664
 
