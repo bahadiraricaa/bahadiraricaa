@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3204c328-440f-4009-8a12-625b345d322b" /><h1 align="center">Hi 👋, I'm Bahadır Arıca</h1>
+<h1 align="center">Hi 👋, I'm Bahadır Arıca</h1>
 <h3 align="center">I'm a IOS Developer</h3>
 
 - 📫 How to reach me **bahadiraricav3@gmail.com**
