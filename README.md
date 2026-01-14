@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Arıca</h1>
-<h3 align="center">I'm a IOS Developer</h3>
+<h3 align="center">I'm a Mobile(IOS/Android) Developer</h3>
 
 - 📫 How to reach me **bahadiraricav3@gmail.com**
 
